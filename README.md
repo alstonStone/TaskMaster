@@ -1,2 +1,2 @@
 # TaskMaster
-A JavaFX application for viewing task completion.
+A JavaFX application for viewing task completion. 
