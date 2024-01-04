@@ -15,6 +15,7 @@ public class CreateTaskDisplayController {
 
     @FXML
     void CreateTask(ActionEvent event) {
+    	System.out.println(TaskTextField.getText());
 
     }
 
